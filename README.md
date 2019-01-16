@@ -10,6 +10,6 @@ Simuline - Waiting Line Management Tool
 ## Authors
 
 * **Bernadine Franz Coloma**
-**Aira Veronica Dizon**
-**Jessanine Granada**
-**Magnolia Jane Lechuga**
+* **Aira Veronica Dizon**
+* **Jessanine Granada**
+* **Magnolia Jane Lechuga**
