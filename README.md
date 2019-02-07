@@ -7,6 +7,10 @@ Simuline - Waiting Line Management Tool
 * [PHP] - Used for Web API development
 * [Android Java] - Used for Android application development
 
+## Links
+Website - https://simuline.net
+Play Store - https://play.google.com/store/apps/details?id=com.mj.myapplication&hl=en_US
+
 ## Authors
 
 * **Bernadine Franz Coloma**
