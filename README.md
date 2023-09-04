@@ -10,10 +10,3 @@ Simuline - Waiting Line Management Tool
 ## Links
 Website - https://simuline.net <br/>
 Play Store - https://play.google.com/store/apps/details?id=com.mj.myapplication&hl=en_US
-
-## Authors
-
-* **Bernadine Franz Coloma**
-* **Aira Veronica Dizon**
-* **Jessanine Granada**
-* **Magnolia Jane Lechuga**
